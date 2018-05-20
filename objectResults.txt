@@ -1,0 +1,18 @@
+Minimal occupation in hours:
+1
+Maximal occupation in hours:
+9
+Maximal occupation year:
+2018
+Sum of occupations for all years: 
+Occupation : 1 ,Id: 435343
+Occupation : 23 ,Id: 868687
+Occupation : 4 ,Id: 345545
+Occupation : 5 ,Id: 131321
+Occupation : 9 ,Id: 756576
+Count of amount: 
+Id : 131321 ,Occupation: 1
+Id : 345545 ,Occupation: 1
+Id : 435343 ,Occupation: 1
+Id : 756576 ,Occupation: 1
+Id : 868687 ,Occupation: 1
